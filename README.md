@@ -8,3 +8,7 @@
 
 <h3 align="center">Вариативная самостоятельная работа</h3>
 <h4><a href="https://github.com/Dm1trylbdv/Practice-2023/blob/main/Задания/Задание%20№2.1.pdf">Задание №2.1</a> </h4>
+
+
+<h4><a href="https://github.com/Dm1trylbdv/Practice-2023/blob/main/Лебедев%20Д.С.%20Задание%20ПП%202023.pdf" target="_blank">Задание на производственную практику</a></h4>
+<h4><a href="https://github.com/Dm1trylbdv/Practice-2023/blob/main/Лебедев%20Д.С.%20Отчет%20ПП%202023.pdf" target="_blank">Отчет по производственной практике</a></h4>
